@@ -1,0 +1,18 @@
+# LOG430Team7
+
+You will need
+- npm
+- sqlite3
+- mqtt
+- express
+- nodejs
+
+## Dependencies
+To install everything that you need to run this application, run :
+
+npm install
+
+
+## Start developpement server
+To start developpement server run :
+npm start
